@@ -1,0 +1,18 @@
+<!doctype html><html>
+<head>
+<style type="text/css">
+p
+{
+font-family:arial;
+font-weight:bold;
+color:#105884;
+text-decoration:line-through;
+word-spacing:20pt;
+}
+</style>
+</head>
+<body>
+<p>hi my name is ritvik</p>
+<h1> i study in manipal institute og technology</h1>
+</body>
+</html>
